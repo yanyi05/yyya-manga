@@ -11,7 +11,7 @@
         "name": "YYYA Manhua160",
         "package_name": "eu.kanade.tachiyomi.extension.zh.yyyamanhua160",
         "resources": {
-          "apk_url": "https://raw.githubusercontent.com/yanyi05/yyya-manga/main/repo/apk/tachiyomi-zh.yyyamanhua160-v1.6.1.jar",
+          "apk_url": "https://raw.githubusercontent.com/yanyi05/yyya-manga/main/repo/apk/tachiyomi-zh.yyyamanhua160-v1.6.1-fixed.apk",
           "icon_url": "https://raw.githubusercontent.com/yanyi05/yyya-manga/main/repo/icon.png"
         },
         "extension_lib": "1.6",
