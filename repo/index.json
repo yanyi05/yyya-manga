@@ -17,13 +17,13 @@
         "extension_lib": "1.6",
         "version_code": 106001,
         "version_name": "1.6.1",
-        "content_warning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "3654905707550834660",
             "name": "漫画160（YYYA）",
             "language": "zh",
-            "home_url": "https://www.manhua160.com"
+            "home_url": "https://www.manhua160.com",
+            "content_rating": "CONTENT_RATING_PORNOGRAPHIC"
           }
         ]
       }
