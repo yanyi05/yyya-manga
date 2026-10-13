@@ -11,18 +11,18 @@
         "name": "YYYA Manhua160",
         "package_name": "eu.kanade.tachiyomi.extension.zh.yyyamanhua160",
         "resources": {
-          "apk_url": "https://raw.githubusercontent.com/yanyi05/yyya-manga/main/repo/apk/tachiyomi-zh.yyyamanhua160-v1.6.1-noopt.apk",
+          "apk_url": "https://raw.githubusercontent.com/yanyi05/yyya-manga/main/repo/apk/tachiyomi-zh.yyyamanhua160-v1.6.2.apk",
           "icon_url": "https://raw.githubusercontent.com/yanyi05/yyya-manga/main/repo/icon.png"
         },
         "extension_lib": "1.6",
-        "version_code": 106001,
-        "version_name": "1.6.1",
+        "version_code": 106002,
+        "version_name": "1.6.2",
         "sources": [
           {
             "id": "3654905707550834660",
             "name": "漫画160（YYYA）",
             "language": "zh",
-            "home_url": "https://www.manhua160.com",
+            "home_url": "https://www.mh160mh.com",
             "content_rating": "CONTENT_RATING_PORNOGRAPHIC"
           }
         ]
