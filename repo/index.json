@@ -1,0 +1,31 @@
+{
+  "name": "YYYA Manhua160",
+  "badge_label": "YYYA",
+  "signing_key": "8a685111c42412f10ff116bb23e23b90b657834ee9b3fe2435ab14456cd1c873",
+  "contact": {
+    "website": "https://github.com/yanyi05/yyya-manga"
+  },
+  "extension_list": {
+    "extensions": [
+      {
+        "name": "YYYA Manhua160",
+        "package_name": "eu.kanade.tachiyomi.extension.zh.yyyamanhua160",
+        "resources": {
+          "apk_url": "https://raw.githubusercontent.com/yanyi05/yyya-manga/main/repo/apk/tachiyomi-zh.yyyamanhua160-v1.6.1.apk"
+        },
+        "extension_lib": "1.6",
+        "version_code": 106001,
+        "version_name": "1.6.1",
+        "content_warning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3654905707550834660",
+            "name": "漫画160（YYYA）",
+            "language": "zh",
+            "home_url": "https://www.manhua160.com"
+          }
+        ]
+      }
+    ]
+  }
+}
